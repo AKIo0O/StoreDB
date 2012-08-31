@@ -5,7 +5,7 @@ StoreDB is a [LocalStorage]("http://www.w3schools.com/html5/html5_webstorage.asp
 
 ###Installation###
 
-```
+```html
 <script src="../StoreDB.js"></script>
 ```
 
@@ -25,7 +25,7 @@ telephone: 000-12345678
 
 If you use primeval API,you need to code:
 
-```
+```html
 <script>
     localStorage.username = foo;
     localStorage.password = 123456;
@@ -38,7 +38,7 @@ If you use primeval API,you need to code:
 It is very tedious!
 
 Now if you use StoreDB,you just need to code:
-```
+```html
 <script>
     var db = new Store();
     var testdb = {
