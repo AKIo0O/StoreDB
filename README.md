@@ -21,7 +21,7 @@ password: 123456
 age: 50
 sex: female
 telephone: 000-12345678
-```,
+```
 
 If you use primeval API,you need to code:
 
