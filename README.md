@@ -1,7 +1,7 @@
 StoreDB
 =======
 
-StoreDB is a [LocalStorage]("http://www.w3schools.com/html5/html5_webstorage.asp") library.
+StoreDB is a [LocalStorage](http://www.w3schools.com/html5/html5_webstorage.asp) library.
 
 ###Installation###
 
