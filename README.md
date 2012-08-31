@@ -21,7 +21,7 @@ password: 123456
 age: 50
 sex: female
 telephone: 000-12345678
-```
+```,
 
 If you use primeval API,you need to code:
 
@@ -42,10 +42,10 @@ Now if you use StoreDB,you just need to code:
 <script>
     var db = new Store();
     var testdb = {
-        "username": "foo"
-        "password": "123456"
-        "age": "50"
-        "sex": "female"
+        "username": "foo",
+        "password": "123456",
+        "age": "50",
+        "sex": "female",
         "telephone": "000-12345678"
     }
 
